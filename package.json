@@ -1,7 +1,7 @@
 {
 	"name": "maps-diff",
 	"version": "0.1.1",
-	"description": "HTML forms to data, a better alternative to FormData()",
+	"description": "Get the diff between two JS Maps.",
 	"author": "Shahab Movahhedi <dev@shmovahhedi.com>",
 	"license": "MIT",
 	"repository": {
