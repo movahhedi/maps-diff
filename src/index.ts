@@ -38,9 +38,6 @@ export function diffMaps(map1: JSONValidMap, map2: JSONValidMap) {
 	return diff;
 }
 
-// TODO Remove default export
-export default diffMaps;
-
 /**
  * Calculates the difference between two objects **of 1 level depth**.
  * `object1` is the base object, and `object2` is the object to compare against `object1`.
