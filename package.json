@@ -1,6 +1,6 @@
 {
 	"name": "maps-diff",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"description": "Get the diff between two JS Maps or Objects.",
 	"author": "Shahab Movahhedi <dev@shmovahhedi.com>",
 	"license": "MIT",
