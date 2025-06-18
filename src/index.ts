@@ -71,4 +71,6 @@ export function diffObjects(object1: JSONValidObject, object2: JSONValidObject) 
 			diff[key] = object2[key];
 		}
 	});
+
+	return diff;
 }
